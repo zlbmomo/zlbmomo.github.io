@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0f42ba;
+  background: #287cd1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2659,27 +2659,4 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
-}
-@media screen and (min-width: 1200px) {
-  body {
-    background-image: url("/images/xunmeng.jpeg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 50% 50%;
-    background-size: cover;
-  }
-  #footer a {
-    color: #eee;
-  }
-}
-.main-inner {
-  background: #fff;
-  opacity: 0.9;
-}
-.site-author-image {
-  border-radius: 100%;
-  padding: 2px;
-  border: 2px dashed #fff;
-  animation: cycle 2s 0.5s forwards;
-  transition: border-radius 2s;
 }
