@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f024cc;
+  background: #914d3e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2662,7 +2662,7 @@ embed {
 }
 @media screen and (min-width: 1200px) {
   body {
-    background-image: url("/images/bg.jpg");
+    background-image: url("https://tpc.googlesyndication.com/simgad/6893153702744595670");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
